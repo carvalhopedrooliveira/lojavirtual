@@ -9,3 +9,5 @@
 - git status
 - git commit -m "Aqui a descrição da alteração"
 - git push origin
+- git pull
+- git tag -l
